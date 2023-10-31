@@ -10,7 +10,7 @@
         <div class ="card">
             <div class="card-body">
                 <h4 class="card-title mb-4">Tugas Latihan 2</h4>
-                <form action="latihan3.php" method="POST">
+                <form action="" method="POST">
                     <label class="input-group-text" for="angka"><b>Inputan Angka :</b></label>
                     <input class="form-control" type="number" name="angka">
                     <div>
